@@ -1,0 +1,7 @@
+KJV | King James Version | English | Public Domain | Original 1611 translation, formal equivalence, widely used in traditional study.
+ASV | American Standard Version | English | Public Domain | 1901 update of the ASV, formal equivalence, widely used in academic studies.
+WEB | World English Bible | English | Public Domain | Modern English update of the American Standard Version, open license.
+Latin_Vulgate | Latin Vulgate | Latin | Public Domain | Jerome's Latin translation, ecclesiastical standard for centuries.
+Hebrew_OT | Hebrew Old Testament | Hebrew | Public Domain | Masoretic Text (Biblia Hebraica), original Hebrew of Old Testament.
+Greek_NT | Greek New Testament | Greek | Public Domain | Textus Receptus, Koine Greek, basis for KJV NT.
+Septuagint | Septuagint | Greek | Public Domain | Ancient Greek translation of the Hebrew Bible, widely used in Hellenistic Judaism and early Christianity.
